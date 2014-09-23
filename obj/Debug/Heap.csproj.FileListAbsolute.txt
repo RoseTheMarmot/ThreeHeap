@@ -1,0 +1,6 @@
+C:\Users\roseb\Documents\Visual Studio 2012\Projects\Practice\Heap\bin\Debug\Heap.exe.config
+C:\Users\roseb\Documents\Visual Studio 2012\Projects\Practice\Heap\bin\Debug\Heap.exe
+C:\Users\roseb\Documents\Visual Studio 2012\Projects\Practice\Heap\bin\Debug\Heap.pdb
+C:\Users\roseb\Documents\Visual Studio 2012\Projects\Practice\Heap\obj\Debug\Heap.exe
+C:\Users\roseb\Documents\Visual Studio 2012\Projects\Practice\Heap\obj\Debug\Heap.pdb
+C:\Users\roseb\Documents\Visual Studio 2012\Projects\Practice\Heap\obj\Debug\Heap.csprojResolveAssemblyReference.cache
